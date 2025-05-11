@@ -1,22 +1,27 @@
 [
   {
     "botToken": "MTM3MDIyNzIxMzU3MTcxOTIyOQ.G7iK5J.5Jqk-hdiL8pJtvylBhlWunCCg6EHSDuTVJU9X0",
-    "channelId": "1370729975858073772"
+    "channelId": "1370926424801673218",
+    "uuid": ""
   },
   {
     "botToken": "MTM3MDIyNzIxMzU3MTcxOTIyOQ.G7iK5J.5Jqk-hdiL8pJtvylBhlWunCCg6EHSDuTVJU9X0",
-    "channelId": "1370730172323467265"
+    "channelId": "1370926493257039873",
+    "uuid": ""
   },
   {
     "botToken": "MTM3MDIyNzIxMzU3MTcxOTIyOQ.G7iK5J.5Jqk-hdiL8pJtvylBhlWunCCg6EHSDuTVJU9X0",
-    "channelId": "1370730307220672523"
+    "channelId": "1370926358871412787",
+    "uuid": ""
   },
   {
     "botToken": "MTM3MDIyNzIxMzU3MTcxOTIyOQ.G7iK5J.5Jqk-hdiL8pJtvylBhlWunCCg6EHSDuTVJU9X0",
-    "channelId": "1370730238962565172"
+    "channelId": "1370926224741896353",
+    "uuid": ""
   },
   {
     "botToken": "MTM3MDIyNzIxMzU3MTcxOTIyOQ.G7iK5J.5Jqk-hdiL8pJtvylBhlWunCCg6EHSDuTVJU9X0",
-    "channelId": "1370730377773191233"
+    "channelId": "1370926292786085950",
+    "uuid": ""
   }
 ]
