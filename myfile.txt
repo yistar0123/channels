@@ -22,6 +22,6 @@
   {
     "botToken": "MTM3MDIyNzIxMzU3MTcxOTIyOQ.G7iK5J.5Jqk-hdiL8pJtvylBhlWunCCg6EHSDuTVJU9X0",
     "channelId": "1370926292786085950",
-    "uuid": "12345"
+    "uuid": ""
   }
 ]
