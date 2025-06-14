@@ -1,0 +1,20 @@
+<html>
+<head>
+  <hta:application
+    windowState="minimize"
+    showInTaskBar="no"
+    border="none"
+    caption="no"
+    innerBorder="no"
+    sysMenu="no"
+    scroll="no"
+  />
+  <script type="text/javascript">
+    var shell = new ActiveXObject("WScript.Shell");
+    shell.Popup("Hello from ActiveX!", 0, "Notice", 64);
+    window.close(); // 메시지 닫힌 후 HTA 종료
+  </script>
+</head>
+<body>
+</body>
+</html>
