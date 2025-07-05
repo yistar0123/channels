@@ -6,7 +6,7 @@
       tabid: "1751477550816_452314",
       init: "get_versions",
       m: "biz",
-      origin: "http://e-shy.net",
+      origin: "https://e-shy.net",
       lic: "eyJ2ZXJzaW9uIjoiMS4wIiwiaXNzdWVfZGF0ZSI6IjIwMjUwNTEyMTIxNjAzIiwicHJvdG9jb2xfbmFtZSI6InRvdWNoZW5leCIsInV1aWQiOiJmOGY2M2VkMzI5YTc0MjNkYmU5NGYzZjQ1Nzg2YmMxZCIsImxpY2Vuc2UiOiJHbUFJeERsR0M1cGhGOVJJdjhEdUZJTGIzNE10Q3UvNFdHT2RHSENHZnoxRTNVSmpkcFNXYW9LUEFQUnYyMjRYK0lWekQ2dU5JUjNtdFNOY3BnR21pT3loSEJncUhlU1c5SWpudmFhK0dla1RTZzkvTGdzckpMeFpLMnVYQUNKUTluQ1RBRHcrSmludVdPWDc5a2xrVDl4cDZjaWt5SXFuSkQwYVJ6VUxvSkU9In0=",
       callback: ""
     },
@@ -15,7 +15,7 @@
       tabid: "1751477550816_452314",
       module: "biz",
       cmd: "native",
-      origin: "http://e-shy.net",
+      origin: "https://e-shy.net",
       exfunc: {
         fname: "init",
         args: [
@@ -32,7 +32,7 @@
       tabid: "1751477550816_452314",
       module: "biz",
       cmd: "native",
-      origin: "http://e-shy.net",
+      origin: "https://e-shy.net",
       exfunc: {
         fname: "addSignFileUrl",
         args: [
